@@ -18,24 +18,24 @@ Publications and Preprints
 
 Notes
 -----
-1. Note on monotonicity approach in Optimal transport maps [PDF](files/Note on monotonicity approach in Optimal transport maps.pdf)
+1. Note on monotonicity approach in Optimal transport maps |[PDF](files/Note on monotonicity approach in Optimal transport maps.pdf)
 
 
 
 Education
 -----
-2021.9-2025.6  B.S. major in Mathematics and Applied Mathematics, Shandong University
+2021.9-2025.6  B.S. major in Mathematics and Applied Mathematics, [Shandong University](https://www.math.sdu.edu.cn/)
 
-2024.9-2025.5  Visiting Student, Academy of Mathematics and Systems Science, CAS
+2024.9-2025.5  Visiting Student, [Academy of Mathematics and Systems Science, CAS](http://www.amss.ac.cn/)
 
-2025.9-        Ph.D student major in Pure Mathematics, Peking University
+2025.9-        Ph.D student major in Pure Mathematics, [Peking University](https://www.math.pku.edu.cn/)
 
 
 
 Teaching Experience
 -----
-2025.9-2026.1  Teaching assistant Partial Differential Equation
+2025.9-2026.1  Teaching assistant, *Partial Differential Equation*
 
 
 
-Last updated: 2025.11.25
+Last updated: 2025.11.26
