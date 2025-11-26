@@ -13,12 +13,12 @@ Currently, I'm a first-year doctoral candidate at the [School of Mathematic Scie
 
 Publications and Preprints
 -----
-1. Local potential and H\"older estimates for the linearized Monge-Amp\`ere equation (with [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)).Preprint (2025). [arXiv](https://arxiv.org/abs/2511.03426).
+1. **Local potential and H\"older estimates for the linearized Monge-Amp\`ere equation** (with [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)).Preprint (2025). [arXiv](https://arxiv.org/abs/2511.03426).
 
 
 Notes
 -----
-1. Note on monotonicity approach in Optimal transport maps [PDF]()
+1. Note on monotonicity approach in Optimal transport maps [PDF](..files/Note on monotonicity approach in Optimal transport maps .pdf)
 
 
 
