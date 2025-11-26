@@ -24,11 +24,11 @@ Notes
 
 Education
 -----
-2021.9-2025.6  B.S. major in Mathematics and Applied Mathematics, [Shandong University](https://www.math.sdu.edu.cn/)
+2021.9-2025.6  B.S. major in Mathematics and Applied Mathematics, [School of Mathematics，Shandong University](https://www.math.sdu.edu.cn/)
 
 2024.9-2025.5  Visiting Student, [Academy of Mathematics and Systems Science, CAS](http://www.amss.ac.cn/)
 
-2025.9-        Ph.D student major in Pure Mathematics, [Peking University](https://www.math.pku.edu.cn/)
+2025.9-        Ph.D student major in Pure Mathematics, [School of Mathematic Science，Peking University](https://www.math.pku.edu.cn/)
 
 
 
