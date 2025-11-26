@@ -18,7 +18,7 @@ Publications and Preprints
 
 Notes
 -----
-1. Note on monotonicity approach in Optimal transport maps [PDF](..files/Note on monotonicity approach in Optimal transport maps .pdf)
+1. Note on monotonicity approach in Optimal transport maps [PDF](Note on monotonicity approach in Optimal transport maps.pdf)
 
 
 
