@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I'm a first-year doctoral candidate at the [School of Mathematic Science](https://www.math.pku.edu.cn/), Peking University, under the supervision of Prof. [Bin Zhou](https://bzhou1982.github.io/).
+Currently, I'm a first-year doctoral candidate at the [School of Mathematic Science](https://www.math.pku.edu.cn/), Peking University, under the supervision of Prof. [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm)).
  I’m interested in **geometric analysis** and **nonlinear paitial differential equation**.
  My email is [gqcui25@stu.pku.edu.cn](mailto:gqcui25@stu.pku.edu.cn).
  
