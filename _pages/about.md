@@ -12,17 +12,13 @@ Currently, I'm a first-year doctoral candidate at the [School of Mathematic Scie
  
 
 ## Publications and Preprints
- -   **Local potential and H\"older estimates for the linearized Monge-Amp\`ere equation** (with [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)).Preprint (2025).  [PDF](files/2511.03426v1.pdf)  [arXiv](https://arxiv.org/abs/2511.03426)
-
-
+ -   **Local potential and H\"older estimates for the linearized Monge-Amp\`ere equation** (with [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)).Preprint (2025). | [PDF](files/2511.03426v1.pdf) | [arXiv](https://arxiv.org/abs/2511.03426)
 
 
 ## Education
  -  2025.9- Now Ph.D student major in Pure Mathematics, [SMS, PKU](https://www.math.pku.edu.cn/)
  -  2024.9-2025.5  Visiting Student, [AMSS, CAS](http://www.amss.ac.cn/)
  -  2021.9-2025.6  B.S. major in Mathematics and Applied Mathematics, [SM, SDU](https://www.math.sdu.edu.cn/)
-
-
 
 ## Teaching Experience
  -  2026.3-2026.6  Teaching assistant, *Mathematical Analysis II (Honor class)* 
