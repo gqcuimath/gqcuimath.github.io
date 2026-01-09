@@ -12,7 +12,7 @@ Currently, I'm a first-year doctoral candidate at the [School of Mathematic Scie
  
 
 ## Publications and Preprints
- -   **Local potential and H\"older estimates for the linearized Monge-Amp\`ere equation** (with [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)).Preprint (2025). | [PDF](files/2511.03426v1.pdf) | [arXiv](https://arxiv.org/abs/2511.03426)
+ -   **Local potential and H\"older estimates for the linearized Monge-Amp\`ere equation** (with [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)).Preprint (2025). \| [PDF](files/2511.03426v1.pdf) \| [arXiv](https://arxiv.org/abs/2511.03426)
 
 
 ## Education
@@ -22,6 +22,6 @@ Currently, I'm a first-year doctoral candidate at the [School of Mathematic Scie
 
 ## Teaching Experience
  -  2026.3-2026.6  Teaching assistant, *Mathematical Analysis II (Honor class)* 
- -  2025.9-2026.1  Teaching assistant, *Partial Differential Equation*  \ [Homework](files/25_fall_PDE_HW.pdf) \ [Exam](files/25_fall_PDE_Exam.pdf)
+ -  2025.9-2026.1  Teaching assistant, *Partial Differential Equation*  \| [Homework](files/25_fall_PDE_HW.pdf) \| [Exam](files/25_fall_PDE_Exam.pdf)
 
 
