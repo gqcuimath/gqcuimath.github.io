@@ -20,18 +20,15 @@ Publications and Preprints
 
 Education
 -----
-2025.9- Now   |    Ph.D student major in Pure Mathematics,| [SMS, PKU](https://www.math.pku.edu.cn/)
-
-2024.9-2025.5 | Visiting Student,| [AMSS, CAS](http://www.amss.ac.cn/)
-
-2021.9-2025.6  |B.S. major in Mathematics and Applied Mathematics,| [SM, SDU](https://www.math.sdu.edu.cn/)
+|2025.9- Now   |    Ph.D student major in Pure Mathematics,| [SMS, PKU](https://www.math.pku.edu.cn/)|
+|2024.9-2025.5 | Visiting Student,| [AMSS, CAS](http://www.amss.ac.cn/)|
+|2021.9-2025.6  |B.S. major in Mathematics and Applied Mathematics,| [SM, SDU](https://www.math.sdu.edu.cn/)|
 
 
 
 Teaching Experience
 -----
-2026.3-2026.6  Teaching assistant, |*Mathematical Analysis II (Honor class)*| .
-
-2025.9-2026.1  Teaching assistant, |*Partial Differential Equation* |[Exam](files/25_fall_PDE_Exam.pdf)
+|2026.3-2026.6  Teaching assistant, |*Mathematical Analysis II (Honor class)*| .|
+|2025.9-2026.1  Teaching assistant, |*Partial Differential Equation* |[Homework](files/25_fall_PDE_HW.pdf)[Exam](files/25_fall_PDE_Exam.pdf)|
 
 
