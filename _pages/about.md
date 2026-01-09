@@ -16,9 +16,9 @@ Currently, I'm a first-year doctoral candidate at the [School of Mathematic Scie
 
 
 ## Education
- -  2025.9- Now    Ph.D student major in Pure Mathematics, Peking University, China
+ -  2025.9- Now    Ph.D student in Pure Mathematics, Peking University, China
  -  2024.9-2025.5  Visiting Student, AMSS, University of Chinese Academy of Sciences, China
- -  2021.9-2025.6  B.S. major in Mathematics and Applied Mathematics, Shandong University, China
+ -  2021.9-2025.6  B.S. in Mathematics, Shandong University, China
 
 ## Teaching Experience
  -  2026.3-2026.6  Teaching assistant, *Mathematical Analysis II (Honor class)* 
