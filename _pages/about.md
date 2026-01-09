@@ -16,10 +16,6 @@ Publications and Preprints
 1. **Local potential and H\"older estimates for the linearized Monge-Amp\`ere equation** (with [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)).Preprint (2025).|[PDF](files/2511.03426v1.pdf)| [arXiv](https://arxiv.org/abs/2511.03426)
 
 
-Notes
------
-1. Note on monotonicity approach in Optimal transport maps |[PDF](files/Note on monotonicity approach in Optimal transport maps.pdf)
-
 
 
 Education
@@ -38,5 +34,3 @@ Teaching Experience
 2025.9-2026.1  Teaching assistant, |*Partial Differential Equation* |[Exam](files/25_fall_PDE_Exam.pdf)
 
 
-
-Last updated: 2025.11.26
