@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.png"
+  avatar           : "photo_picture.jpg"
   name             : "Guoqing Cui"
   pronouns         : # example: "she/her"  
   bio              : "A doctoral candidate in Peking University"
