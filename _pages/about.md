@@ -12,8 +12,9 @@ Currently, I'm a 2ed-year doctoral candidate at the [School of Mathematic Scienc
  
 
 ## Publications and Preprints
- -   **Gradient potential estimates for linearized Monge-Amp\`ere equations** . Preprint (2026). \| [PDF](files/LMA_Gradient_potential.pdf) \| [arXiv](https://arxiv.org/abs/2606.28910)
- -   **Local potential and H\"older estimates for the linearized Monge-Amp\`ere equation** (with [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)). Preprint (2025). \| [PDF](files/2511.03426v1.pdf) \| [arXiv](https://arxiv.org/abs/2511.03426)
+ -   **Global Hölder estimates for linearized Monge-Ampère equations in divergence form with applications to dual semigeostrophic equations and periodic homogenization** (with [C. Gu](https://sites.google.com/view/chonggu/), [N. Q. Le](https://nqle.pages.iu.edu/),  [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)). Preprint (2026).\|[PDF](files/LMA_div.pdf)\|[arXiv](https://arxiv.org/abs/2610.02071)
+ -   **Gradient potential estimates for linearized Monge-Ampère equations** . Preprint (2026). \| [PDF](files/LMA_Gradient_potential.pdf) \| [arXiv](https://arxiv.org/abs/2606.28910)
+ -   **Local potential and Hölder estimates for the linearized Monge-Ampère equation** (with [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)). Preprint (2025). \| [PDF](files/2511.03426v1.pdf) \| [arXiv](https://arxiv.org/abs/2511.03426)
 
 
 ## Education
