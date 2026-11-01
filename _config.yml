@@ -44,6 +44,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  wechat           : "gqcui2501"
   zotero           : # URL
 
 
@@ -78,7 +79,6 @@ author:
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
-  wechat           : "gqcui2501"
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
