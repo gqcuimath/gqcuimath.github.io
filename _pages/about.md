@@ -12,6 +12,8 @@ Currently, I'm a 2ed-year doctoral candidate at the [School of Mathematic Scienc
  Feel free to reach out to me via email at [gqcui25@stu.pku.edu.cn](mailto:gqcui25@stu.pku.edu.cn).
  I’m always open to communication and collaboration!
 
+ This is my [CV]() (November 2026).
+
 ## Publications and Preprints
  -   **Global Hölder estimates for linearized Monge-Ampère equations in divergence form with applications to dual semigeostrophic equations and periodic homogenization** (with [C. Gu](https://sites.google.com/view/chonggu/), [N. Q. Le](https://nqle.pages.iu.edu/),  [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)). Preprint (2026). \| [PDF](files/LMA_div.pdf) \| [arXiv](https://arxiv.org/abs/2610.02071)
  -   **Gradient potential estimates for linearized Monge-Ampère equations** . Preprint (2026). \| [PDF](files/LMA_Gradient_potential.pdf) \| [arXiv](https://arxiv.org/abs/2606.28910)
