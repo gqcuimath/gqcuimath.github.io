@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently, I'm a 2ed-year doctoral candidate at the [School of Mathematic Science](https://www.math.pku.edu.cn/), Peking University, under the supervision of Prof. [Bin Zhou](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/70482.htm).
+Currently, I'm a 2ed-year doctoral candidate at the [School of Mathematic Science](https://www.math.pku.edu.cn/), Peking University, under the supervision of Prof. [Bin Zhou]([(https://math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/1081math70482.htm]).
  I’m interested in **geometric analysis** and **nonlinear paitial differential equation**.
- My email is [gqcui25@stu.pku.edu.cn](mailto:gqcui25@stu.pku.edu.cn).
  
+ Feel free to reach out to me via email at [gqcui25@stu.pku.edu.cn](mailto:gqcui25@stu.pku.edu.cn).
+ I’m always open to communication and collaboration!
 
 ## Publications and Preprints
  -   **Global Hölder estimates for linearized Monge-Ampère equations in divergence form with applications to dual semigeostrophic equations and periodic homogenization** (with [C. Gu](https://sites.google.com/view/chonggu/), [N. Q. Le](https://nqle.pages.iu.edu/),  [L. Wang](https://lwmath.github.io/), [B. Zhou](https://bzhou1982.github.io/)). Preprint (2026). \| [PDF](files/LMA_div.pdf) \| [arXiv](https://arxiv.org/abs/2610.02071)
