@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Currently, I'm a 2ed-year doctoral candidate at the [School of Mathematic Science](https://www.math.pku.edu.cn/), Peking University, under the supervision of Prof. [Bin Zhou](https://math.pku.edu.cn/jsdw/js_20180628175159671361/z_20180628175159671361/1081math70482.htm).
- I’m interested in **geometric analysis** and **nonlinear paitial differential equation**.
+ I’m interested in **geometric analysis** and **nonlinear paitial differential equation**. My recent work mainly involves Monge–Ampère type equations and affine differential geometry.
 
  You can find me at Room 122, No.19 Building, Peking University.
  Feel free to reach out to me via email at [gqcui25@stu.pku.edu.cn](mailto:gqcui25@stu.pku.edu.cn).
